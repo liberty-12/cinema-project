@@ -1,0 +1,15 @@
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.idea
+.vscode
+
+# Dependency directories and logs
+*.log*
+node_modules/
+
+# Compiled output
+public/bundle.js
+public/bundle.js.map
